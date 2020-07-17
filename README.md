@@ -1,2 +1,3 @@
 # LCD_WIFI
-Arduino project control LCD by Blynk application 
+Arduino project using ESP8266 and Blynk.
+control LCD 
